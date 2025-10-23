@@ -47,6 +47,10 @@ namespace Calculator
                     textBox3.Text = Convert.ToString(result);
                 }
             }
+            else 
+            {
+                MessageBox.Show("Please select an operator");
+            }
         }
     }
 }
