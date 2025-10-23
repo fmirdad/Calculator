@@ -145,11 +145,11 @@
             // 
             label3.AutoSize = true;
             label3.Font = new Font("Segoe UI", 10F, FontStyle.Bold);
-            label3.Location = new Point(35, 211);
+            label3.Location = new Point(57, 211);
             label3.Name = "label3";
-            label3.Size = new Size(76, 19);
+            label3.Size = new Size(49, 19);
             label3.TabIndex = 10;
-            label3.Text = "Number 3";
+            label3.Text = "Result";
             // 
             // Form1
             // 
